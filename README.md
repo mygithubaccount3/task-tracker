@@ -1,5 +1,7 @@
 # task-tracker
 
+gh-pages: https://mygithubaccount3.github.io/task-tracker/dist/
+
 ## Project setup
 ```
 npm install
